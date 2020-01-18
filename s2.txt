@@ -1,2 +1,0 @@
-This is a new file in our git test. These are the changes I have made
-yes me
